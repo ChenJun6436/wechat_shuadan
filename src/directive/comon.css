@@ -1,0 +1,21 @@
+.tip{
+	color: #e0e0e0;
+}
+/*单选框样式*/
+.mint-radiolist{
+	text-align: left!important;
+}
+.mint-radiolist .mint-cell {
+    padding: 0!important;
+    display: inline-block!important;
+    padding: 0;
+    border: none!important;
+    min-height: .8rem;
+}
+.mint-radiolist-title{
+	display: none!important;
+}
+.mint-radiolist-label{
+	padding: 0;
+    font-size: .3rem;
+}
